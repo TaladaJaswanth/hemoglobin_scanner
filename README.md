@@ -23,7 +23,7 @@ Nordic nRF54L (microcontroller) · nPM1300 (power management) · MAX30102 (optic
 
 ## Documentation
 
-[Technical Brief (PDF)](Hemoglobin_Scanner_Technical_Brief.pdf) — full system architecture, components, and clinical validation.
+[Technical Brief (PDF) contains full system architecture, components, and clinical validation.
 
 ## Project details
 
